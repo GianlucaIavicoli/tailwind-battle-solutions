@@ -31,6 +31,7 @@ Below is a table showcasing each day's challenge and the corresponding accuracy 
 | 13   | [Day 13](./13-04-2024/index.html) | 100% |
 | 14   | [Day 14](./14-04-2024/index.html) | 100% |
 | 15   | [Day 15](./15-04-2024/index.html) | 100% |
+| 16   | [Day 16](./16-04-2024/index.html) | 100% |
 | ... | ...              | ...      |
 
 **Note**: All accuracy values are provided by the Tailwind Battle website, reflecting how closely my solution matches their target design.
