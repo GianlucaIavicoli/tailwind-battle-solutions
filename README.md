@@ -24,6 +24,7 @@ Below is a table showcasing each day's challenge and the corresponding accuracy 
 | 1   | [Day 6](./06-04-2024/index.html) | 100% |
 | 1   | [Day 7](./07-04-2024/index.html) | 100% |
 | 1   | [Day 8](./08-04-2024/index.html) | 100% |
+| 1   | [Day 9](./09-04-2024/index.html) | 100% |
 | ... | ...              | ...      |
 
 **Note**: All accuracy values are provided by the Tailwind Battle website, reflecting how closely my solution matches their target design.
