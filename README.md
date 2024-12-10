@@ -38,6 +38,7 @@ You can view my public profile and results here:
 - All accuracy values are provided by the Tailwind Battle website, reflecting how closely my solution matches their target design.  
 - `My Chars` is the total number of characters in my solution.  
 - `AVG Chars (Others)` represents the average total characters used by other users who completed the same challenge **at the time it was written**. Over time, as new submissions are made, these averages may shift.
+- Character counts can be further reduced by skipping proper HTML formatting (e.g., removing spaces and line breaks), though this is not strictly necessary.
 
 ---
 
