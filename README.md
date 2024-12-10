@@ -40,6 +40,7 @@ Here’s the updated table with the correct order:
 | 23  | [Day 23](./April-2024/23-04-2024/index.html)                | 100%        | 99.95%                | 254      | 460                |
 | 24  | [Day 24](./April-2024/24-04-2024/index.html)                | 100%        | 85.81%                | 787      | 986                |
 | 25  | [Day 25](./April-2024/25-04-2024/index.html)                | 99.89%      | 91.87%                | 709      | 1040               |
+| 26  | [Day 26](./April-2024/26-04-2024/index.html)                | 100%        | 91.4%                 | 632      | 814                |
 | ... | ...                                                         | ...         | ...                   | ...      | ...                |
 
 **Note:**  
