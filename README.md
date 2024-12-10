@@ -9,9 +9,15 @@ You can view my public profile and results here:
 [My Tailwind Battle Profile](https://www.tailwindbattle.com/player/8d702ac9-7e3b-48dc-8607-42081a120e51)
 
 ---
-Here’s the updated table with the correct order:
 
 ## Challenge Accuracy & Character Counts
+
+**Note:**  
+- All accuracy values are provided by the Tailwind Battle website, reflecting how closely my solution matches their target design.  
+- `My Accuracy` is my personal accuracy for each challenge.  
+- `My Chars` is the total number of characters in my solution.  
+- `AVG Accuracy (Others)` and `AVG Chars (Others)` reflect the average accuracy and character counts achieved by other users who completed the challenge **at the time it was written**. These values may shift as more submissions are made.  
+- Character counts can be further reduced by skipping proper HTML formatting (e.g., removing spaces and line breaks), though this is not strictly necessary.  
 
 | Day | Challenge Folder                                            | My Accuracy | AVG Accuracy (Others) | My Chars | AVG Chars (Others) |
 | --- | ----------------------------------------------------------- | ----------- | --------------------- | -------- | ------------------ |
@@ -43,13 +49,6 @@ Here’s the updated table with the correct order:
 | 26  | [Day 26](./April-2024/26-04-2024/index.html)                | 100%        | 91.4%                 | 632      | 814                |
 | 27  | [Day 27](./April-2024/27-04-2024/index.html)                | 100%        | 96.49%                | 1,232    | 1,379              |
 | ... | ...                                                         | ...         | ...                   | ...      | ...                |
-
-**Note:**  
-- All accuracy values are provided by the Tailwind Battle website, reflecting how closely my solution matches their target design.  
-- `My Accuracy` is my personal accuracy for each challenge.  
-- `My Chars` is the total number of characters in my solution.  
-- `AVG Accuracy (Others)` and `AVG Chars (Others)` reflect the average accuracy and character counts achieved by other users who completed the challenge **at the time it was written**. These values may shift as more submissions are made.  
-- Character counts can be further reduced by skipping proper HTML formatting (e.g., removing spaces and line breaks), though this is not strictly necessary.  
 ---
 
 **Happy coding!**
