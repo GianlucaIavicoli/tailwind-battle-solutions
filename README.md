@@ -31,6 +31,7 @@ You can view my public profile and results here:
 | 15  | [Day 15](./April-2024/15-04-2024/index.html)                | 100%     | 290    | 572              |
 | 16  | [Day 16](./April-2024/16-04-2024/index.html)                | 100%     | 1075    | 1,306              |
 | 17  | [Day 17](./April-2024/17-04-2024/index.html)                | 100%     | 449    | 644              |
+| 18  | [Day 18](./April-2024/18-04-2024/index.html)                | 99.89%     | 541    | 644              |
 | ... | ...                                                         | ...      | ...      | ...                |
 
 **Note:**  
