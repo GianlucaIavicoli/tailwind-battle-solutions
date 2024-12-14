@@ -1,6 +1,7 @@
 # Tailwind Battle Solutions
 
 This repository contains my daily solutions to the [Tailwind Battle](https://www.tailwindbattle.com/) challenges.
+If you find these solutions helpful or inspiring, please consider leaving a ⭐ on this repository!
 
 **About Tailwind Battle:**  
 [Tailwind Battle](https://www.tailwindbattle.com/) is a platform where you can practice your CSS skills by recreating provided designs using Tailwind CSS. You get scored based on how closely you match the target, and you can track your progress and improvement over time.
