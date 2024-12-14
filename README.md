@@ -2,8 +2,15 @@
 
 This repository contains my daily solutions to the [Tailwind Battle](https://www.tailwindbattle.com/) challenges.<br />
 If you find these solutions helpful or inspiring, please consider leaving a ⭐ on this repository!
+Here's the updated README with a warning section added:
+
+⚠️ **Warning:**  
+This repository **is not** intended to encourage cheating or copying solutions for Tailwind Battle challenges. It exists solely to compare solutions and share approaches with others. If you cheat by using these solutions directly, you undermine the purpose of the website, which is to improve your skills and have fun.
+
+---
 
 **About Tailwind Battle:**  
+
 [Tailwind Battle](https://www.tailwindbattle.com/) is a platform where you can practice your CSS skills by recreating provided designs using Tailwind CSS. You get scored based on how closely you match the target, and you can track your progress and improvement over time.
 
 You can view my public profile and results here:  
