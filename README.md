@@ -1,6 +1,6 @@
 # Tailwind Battle Solutions
 
-This repository contains my daily solutions to the [Tailwind Battle](https://www.tailwindbattle.com/) challenges.
+This repository contains my daily solutions to the [Tailwind Battle](https://www.tailwindbattle.com/) challenges.<br />
 If you find these solutions helpful or inspiring, please consider leaving a ⭐ on this repository!
 
 **About Tailwind Battle:**  
